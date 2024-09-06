@@ -18,7 +18,7 @@
 .footer-links{
     display: flex;
     list-style: none;
-    gap: 50px;
+    gap: 40px;
     color: #252525;
     font-size: 20px;
 }
@@ -61,21 +61,20 @@
         align-items: end;
     }
     .footer-logo img{
-        width: 50px;
-        height: 40px;
+        width: 40px;
+        /* height: 40px; */
     }
     .footer-logo p{
-        font-size: 20px;
+        font-size: 25px;
     }
-    .footer-lnks{
+    .footer-links{
         font-size: 14px;
         gap: 10px;
     }
     .footer-social-icon img{
-      width: 22px;
+       width: 22px;
     }
     .footer-copyright{
         font-size: 13px;
     }
-
 }
